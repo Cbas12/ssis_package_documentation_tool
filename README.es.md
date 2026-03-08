@@ -11,7 +11,7 @@ Esta herramienta automatiza el proceso de documentación de paquetes SQL Server 
 - **Eficiencia:** Reduce el tiempo de documentación para procesos ETL heredados o complejos.
 
 ## 💰 Eficiencia de Costos
-Esta herramienta está diseñada para el procesamiento de múltiples archivos a bajo costo. Durante el desarrollo y pruebas:
+Esta herramienta está diseñada para el procesamiento de múltiples archivos a un bajo costo, lo cual se demostró durante el desarrollo y pruebas:
 - **Escalabilidad:** Documentó exitosamente más de 30 Procedimientos Almacenados.
 - **Costo Total:** Menos de $2.50 USD (utilizando la API de Gemini).
 - **Valor:** Documentación de alta velocidad a una fracción del costo del trabajo manual o herramientas empresariales.

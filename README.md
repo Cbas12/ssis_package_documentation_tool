@@ -11,7 +11,7 @@ This tool automates the process of documenting SQL Server Integration Services (
 - **Efficiency:** Reduces documentation time for legacy or complex ETL processes.
 
 ## 💰 Cost Efficiency
-This tool is designed for multiple file processing at a small cost. During development and testing:
+This tool is designed for multiple file processing at a low cost, which was demonstrated during development and testing:
 - **Scalability:** Successfully documented **30+ Stored Procedures**.
 - **Total Cost:** Less than **$2.50 USD** (using Gemini API).
 - **Value:** High-speed documentation at a fraction of the cost of manual labor or enterprise tools.
