@@ -34,7 +34,7 @@ Antes de ejecutar el notebook, asegúrate de tener:
     - Utiliza el archivo gemini.txt para escribir tu propia Clave API de Gemini. Simplemente copia el texto dentro.
 
 ## 📖 Uso
-1. Abre *ssis_package_documentation_tool_ENG.ipynb* en VS Code o Jupyter.
+1. Abre *ssis_package_documentation_tool_ESP.ipynb* en VS Code o Jupyter.
 2. Asegúrate de haber agregado las rutas de entrada y salida:
  - *ssis_location*: La ruta de la carpeta que contiene tus archivos dtsx, param y conmgr.
  - *temp_output*: La carpeta donde la herramienta guardará temporalmente los resúmenes de los archivos param y conmgr para usarlos en combinación con los archivos dtsx limpios.
